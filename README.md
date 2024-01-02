@@ -8,3 +8,4 @@ This project aims to predict the sales of different stores using machine learnin
 * Compare the performance of different models and identify the one that offers the best results for our specific dataset.
 * Utilize data exploration and visualization techniques to understand the relationships between various factors and sales.
 * Gain valuable insights into the drivers of store sales within the given dataset.
+  
