@@ -6,6 +6,11 @@
 ## Project Overview: 
 This project aims to predict sales for various stores using machine learning and Python. We'll leverage historical sales data and store attributes to identify factors influencing future sales performance. Predictive analytics will be employed to uncover these relationships and build effective models.
 
+## Data Sources
+The data for this project originates from Unschool, accessed during my basic data science coursework. The dataset is included within this repository 
+
+
+
 ## Goals:
 * Implement various machine learning models, including linear regression and boosting algorithms, to predict store sales.
 * Compare the performance of different models and identify the one that offers the best results for our specific dataset.
