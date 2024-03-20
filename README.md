@@ -40,11 +40,13 @@ The skills or concepts were incorporated in the project:
 
 ## Visualization:
 
-Heat-Map   
+Correlation Heatmap   
 ---
+![](correlation_heatmap.png)
 
-
-
+Pair-Plot
+---
+![](pairplot.png)
 
 
 ## Goals:
