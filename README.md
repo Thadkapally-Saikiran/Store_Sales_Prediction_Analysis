@@ -38,6 +38,14 @@ The skills or concepts were incorporated in the project:
 4. Model Building and Evaluation
    - Model Training and Evaluation using Metrics (e.g., MSE, R-squared)
 
+## Visualization:
+
+Heat-Map   
+---
+
+
+
+
 
 ## Goals:
 * Implement various machine learning models, including linear regression and boosting algorithms, to predict store sales.
