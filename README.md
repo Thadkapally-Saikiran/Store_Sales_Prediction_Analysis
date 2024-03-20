@@ -58,6 +58,10 @@ Pair-Plot
   * The correlation matrix can reveal hidden influences. Even if features A and B each have weak sales correlations, their strong correlation with each other might suggest an interaction effect on sales. Investigate these potential feature interactions to improve your model's predictive power.
 - Be aware of data limitations
   * As the problem statement mentions, the data may have limitations, such as the absence of sales data for closed stores or holidays. The company should be aware of these limitations and how they may impact the accuracy of their models.
+    
+Here are some additional recommendations:
+  * Regularly update your machine learning models with new data. This will help to ensure that your models continue to make accurate predictions over time.
+  * Communicate the limitations of your predictions to your clients. It is important to be clear about the fact that no machine learning model can predict the future perfectly.
 
 ## Project Files:
 * store-sales-prediction.ipynb: Jupyter notebook containing the entire Python code for data analysis, model building, and evaluation.
