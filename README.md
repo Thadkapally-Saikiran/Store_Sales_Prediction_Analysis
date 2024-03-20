@@ -1,4 +1,4 @@
-# Optimizing Retail Strategy: Predicting Store Sales through Machine Learning
+# Unlocking Retail Profits: Predicting Store Sales with Machine Learning
 
 ![](intro_image.jpg)
 ---
