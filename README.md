@@ -7,7 +7,7 @@
 This project aims to predict sales for various stores using machine learning and Python. We'll leverage historical sales data and store attributes to identify factors influencing future sales performance. Predictive analytics will be employed to uncover these relationships and build effective models.
 
 ## Data Sources
-The data for this project originates from Unschool, accessed during my basic data science coursework. The dataset is included within this repository 👉 [](intro_image.jpg)
+The data for this project originates from Unschool, accessed during my basic data science coursework. The dataset is included within this repository 👉 [store.csv](https://github.com/Thadkapally-Saikiran/Store-Sales-Prediction/blob/main/store.csv),  [test_v2.csv](https://github.com/Thadkapally-Saikiran/Store-Sales-Prediction/blob/main/test_v2.csv), [train_v2.csv](https://github.com/Thadkapally-Saikiran/Store-Sales-Prediction/blob/main/train_v2.csv)
 
 
 
