@@ -3,6 +3,16 @@
 ![](intro_image.jpg)
 ---
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Problem statement](#problem-statement)
+- [Skills/ Concepts demonstrated](#skills-concepts-demonstrated)
+- [Visualization](#visualization)
+- [Recommendations](#recommendations)
+- [Project Files](#project-files)
+- [References](#references)
+  
 ## Project Overview
 This project aims to predict sales for various stores using machine learning and Python. We'll leverage historical sales data and store attributes to identify factors influencing future sales performance. Predictive analytics will be employed to uncover these relationships and build effective models.
 
