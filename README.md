@@ -79,6 +79,9 @@ Here are some additional recommendations:
 6. [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
 
 😄
+📊
+
+👨‍💻
 
 💻
   
