@@ -4,7 +4,7 @@
 ---
 
 ## Project Overview: 
-This project aims to predict the sales of different stores using machine learning techniques in Python. By analyzing factors like customer count, day of week, promotions, and holidays, we hope to gain insights into what drives store sales and build a model that can accurately predict future performance.
+This project aims to predict sales for various stores using machine learning and Python. We'll leverage historical sales data and store attributes to identify factors influencing future sales performance. Predictive analytics will be employed to uncover these relationships and build effective models.
 
 ## Goals:
 * Implement various machine learning models, including linear regression and boosting algorithms, to predict store sales.
