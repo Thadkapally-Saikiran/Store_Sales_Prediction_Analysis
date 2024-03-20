@@ -1,4 +1,4 @@
-# Store-Sales-Prediction using Machine Learning in Python
+# Optimizing Retail Strategy: Predicting Store Sales through Machine Learning
 
 ![](intro_image.jpg)
 ---
