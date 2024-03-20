@@ -20,7 +20,6 @@ The data for this project originates from Unschool, accessed during my basic dat
    * The provided data might have limitations, such as the absence of sales data for closed stores or holidays like Easter. These limitations can potentially impact the model's ability to predict sales accurately for scenarios outside the training data.
 
 ## Skills/ Concepts demonstrated
-
 The skills or concepts were incorporated in the project:
 1. Project Management
    - Problem Statement Definition
@@ -46,21 +45,19 @@ Correlation Heatmap
 
 Pair-Plot
 ---
-![](pairplot.png)
+![](pair-plot.png)
 
-
-## Goals:
-* Implement various machine learning models, including linear regression and boosting algorithms, to predict store sales.
-* Compare the performance of different models and identify the one that offers the best results for our specific dataset.
-* Utilize data exploration and visualization techniques to understand the relationships between various factors and sales.
-* Gain valuable insights into the drivers of store sales within the given dataset.
-
-## Methodology:
-* Data Preprocessing: Explore and clean the provided datasets ("train_v2.csv", "test_v2.csv", "store.csv"). This includes handling missing values, outliers, and potentially removing irrelevant data points like closed stores with no sales.
-* Data Analysis: Utilize visualization techniques to identify potential correlations between features like customer count, day of week, promotions, and holidays with store sales.
-* Model Building: Implement and train various machine learning models, including linear regression, XGBoost, and other boosting algorithms, to predict future sales based on available features.
-* Model Evaluation: Compare the performance of different models using metrics like Mean Squared Error (MSE) or R-squared to identify the most effective one for our dataset.
-* Visualization and Reporting: Present the findings through visualizations and reports, highlighting key insights about the drivers of store sales and the performance of different models.
+## Recommendations
+- Target high-impact features
+  * Analyze the correlation matrix to identify features that strongly influence sales (e.g., customers). These features should be prioritized when building your sales prediction models.
+- Handle correlated features carefully
+  * Correlated features can mislead models. Consider dimensionality reduction to avoid overfitting and improve generalizability.
+- Consider additional features not in the correlation matrix
+  * Correlation matrices miss relationships between multiple features. Explore additional features beyond the matrix, like weather, competitor activity, or economic factors, to capture a more holistic view for sales prediction.
+- Use the correlation matrix to identify potential interactions between features
+  * The correlation matrix can reveal hidden influences. Even if features A and B each have weak sales correlations, their strong correlation with each other might suggest an interaction effect on sales. Investigate these potential feature interactions to improve your model's predictive power.
+- Be aware of data limitations
+  * As the problem statement mentions, the data may have limitations, such as the absence of sales data for closed stores or holidays. The company should be aware of these limitations and how they may impact the accuracy of their models.
 
 ## Project Files:
 * store-sales-prediction.ipynb: Jupyter notebook containing the entire Python code for data analysis, model building, and evaluation.
@@ -68,5 +65,17 @@ Pair-Plot
 * test_v2.csv: Testing data for evaluating the model's performance.
 * store.csv: Additional information about the stores involved.
 * Data Science-Mini Project.pdf: Project documentation and report further explaining the methodology and results.
+
+## References
+1. [Machine Learning Algorithms](https://www.kaggle.com/code/marcovasquez/top-machine-learning-algorithms-beginner)
+2. [Python Docs](https://docs.python.org/3/tutorial/)
+3. [Pandas](https://pandas.pydata.org/docs/)
+4. [Matplotlib](https://matplotlib.org/stable/users/getting_started/)
+5. [Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
+6. [scikit-learn](https://scikit-learn.org/stable/getting_started.html)
+
+😄
+
+💻
   
   
