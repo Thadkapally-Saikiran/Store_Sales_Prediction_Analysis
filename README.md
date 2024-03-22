@@ -1,4 +1,4 @@
-## Unlocking Retail Profits: Predicting Store Sales with Machine Learning and Python
+## Predicting Store Sales with Machine Learning and Python
 
 ![](intro_image.jpg)
 ---
